@@ -25,6 +25,7 @@ I build AI-powered automation systems that eliminate manual work — connecting 
 | WhatsApp RAG Support Bot | n8n + Supabase + OpenAI | 90% support automated |
 | Multi-Agent AI Support | Make.com + GPT-4o | 4 languages, 24/7 uptime |
 | AI Recruitment Pipeline | Make.com + GPT-4 | Screening time: hours → minutes |
+| [Lead Tracking Dashboard](https://github.com/flekz777-dot/looker-studio-lead-dashboard) | Looker Studio + Google Sheets | Live dashboard: 20 leads, HOT/WARM/COLD scoring |
 
 ## 📫 Contact
 
